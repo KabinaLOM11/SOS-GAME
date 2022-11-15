@@ -1,0 +1,415 @@
+body{
+    padding: 0;
+    margin: 0;
+    width: 1440px;
+}
+
+.section-one{
+    background-image: url(/img/bcg\ sec1.png);
+    width: 1440px;
+    height: 960.09px;
+    background-size: cover;
+    background-position: center;
+}
+
+header{
+    width: 1440px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu{
+    font-size: 12px;
+    font-family: 'Open Sans';
+    font-weight: 700px;
+    margin-top: 20px;
+}
+
+.menu-items{
+    display: inline;
+    margin-right: 37px;
+    text-transform: uppercase;
+    
+}
+
+.menu-items a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.logo-x{
+    margin-right: 18px;
+}
+
+.logo{
+    margin-top: 20px;
+}
+
+.steam{
+    margin-top: 20px;
+}
+
+.text{
+   text-align: center;
+   margin-top: 245px;
+   color: #FFFFFF;
+   font-family: 'Bebas Neue';
+   font-weight: 700px;
+   font-size: 30px;
+}
+
+.text h2{
+    font-size: 25px;
+}
+
+.button{
+    width: 260px;
+    padding: 17px 20px 20px 20px;
+    background-color: #FFB548;
+    text-align: center;
+    margin-left: 560px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.button:active{
+    background-color: greenyellow;
+    padding: 23px 26px 26px 26px;
+    font-size: 18px;
+}
+
+.button a {
+    text-decoration: none;
+    color: #1A1917;
+    font-family: 'Open Sans';
+    
+    font-weight: 700;
+}
+
+.nextpage{
+    color: #fff;
+    text-align: center;
+    margin-top: 334px;
+    text-transform: uppercase;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+}
+
+.section-two{
+    background-image: url(/img/bg\ image\ 2.png);
+    width: 1441.99px;
+    height: 1048.11px;
+    
+}
+
+.content-sec-two{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    
+}
+
+.text-sec-two{
+    color: #fff;
+    width: 35%;
+    margin-top: 303px;
+    font-family: 'Bebas Neue';
+    font-weight: 700;
+}
+
+.p2-sec-2{
+    font-size: 24px;
+   
+}
+
+.text-sec-two h2{
+    font-weight: 700;
+    font-size: 75px;
+    
+}
+
+.p-sec-2{
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+}
+
+span{
+    font-size: 18px;
+}
+
+.image-sec-two{
+    margin-top: 253px;
+}
+
+.hr{
+    width: 911px;
+    margin-left: 230px;
+}
+
+
+.section-three{
+    background-image: url(/img/bg\ image\ 3.png);
+    width: 1440px;
+    height: 870px;
+}
+
+
+
+.text-sec-three{
+    padding-top: 170px;
+    margin-left: 800px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 24px;
+}
+
+
+.list-sec-three{
+    padding-top: 15px;
+    margin-left: 780px;
+    color: #fff;
+    text-transform: uppercase;  
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 36px;
+}
+
+.list-sec-three p{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.list-sec-three li{
+    color: #FFB548;
+}
+
+.section-four{
+    background-image: url(/img/bg\ image\ 4.png);
+    width: 1458.53px;
+    height: 961.13px;
+}
+
+.text-sec-four{
+    color: #fff;
+    text-align: center;
+    padding-top: 145px;
+}
+
+.text-sec-four h5{
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.text-sec-four h2{
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+table{
+    color: #fff;
+    margin-top: 200px;
+}
+
+table p {
+    color: #FFB548;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue';
+    font-size: 24px;
+}
+
+table td{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.section-five{
+    background-image: url(/img/bg\ image\ 3.jpg);
+    width: 1441.58px;
+    height: 960.16px;
+}
+
+.content-sec-five{
+    color: #fff;
+    width: 100%;
+    display: flex;
+}
+
+.text-sec-five{
+    padding-top: 303px;
+    width: 30%;
+    margin-left: 121px;
+    
+}
+
+.text-sec-five h5{
+    font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+}
+
+.text-sec-five h2{
+    font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+
+}
+
+.text-sec-five p{
+    font-family: 'Open Sans';
+}
+
+.button-sec-five{
+    padding: 18px 38px;
+    background-color: #FFB548;
+    border-radius: 4px;
+    width: 50%;
+    text-align: center;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+.button-sec-five a {
+    text-decoration: none;
+    color: #1A1917;
+    font-family: 'Open Sans';
+}
+
+.text-right-sec-five{
+    margin-left: 250px;
+    margin-top: 160px;
+}
+
+.section-six{
+    background-image: url(/img/bg\ image\ 3.jpg);
+    width: 1441.58px;
+    height: 960.16px;
+}
+
+.content-sec-six{
+    width: 100%;
+    display: flex;
+}
+
+.img-sec-five{
+    width: 412.35px;
+    height: 655.6px;
+    padding-top: 70px;
+    margin-left: 190px;
+}
+
+.right-cont{
+    color: #fff;
+    padding-top: 220px;
+    margin-left: 100px;
+}
+
+.right-cont h5{
+    font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+}
+
+.right-cont h2{
+    font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+text-transform: uppercase;
+}
+
+.right-cont p{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+}
+
+.contacts{
+    display: flex;
+    margin-top: 70px;
+}
+
+.mail{
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+    margin-right: 40px;
+}
+
+.buttons{
+    padding: 15px 90px;
+    background-color: #FFB548;
+    text-align: center;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.buttons a{
+    color: #1A1917;
+    text-decoration: none;
+    font-family: 'Open Sans';
+}
+
+footer{
+    width: 1440px;
+    
+}
+
+.footer-content{
+    justify-content: space-around;
+    display: flex;
+}
+
+.img-logoes{
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.hr-footer{
+    width: 1197.82px;
+    margin-top: 50px;
+}
+
+.footer-text{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+}
+
+.footer-text-left{
+    opacity: 0.5;
+    font-family: 'Open Sans';
+
+}
+
+.footer-text-right{
+    font-family: 'Open Sans';
+
+}
